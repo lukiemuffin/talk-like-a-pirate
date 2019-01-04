@@ -2,11 +2,26 @@
 <html>
 <head>
 <style type="text/css">
-  textarea {
-    width: 400px;
-    height: 200px;
-    font-family: arial;
+	body {
+		font-family: arial;
+	}
+	h1 {
+		font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	}
+	h2 {
+		font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+	}
+	textarea {
+    	width: 400px;
+    	height: 150px;
+    	font-family: arial;
   }
+	p {
+		font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+	}
+	a {
+		font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+	}
 </style>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -58,11 +73,21 @@ $(document).ready(function(){
 </head>
 <body>
 
-<h2>Landlubbers</h2>
+<h1>Pirate Translator!</h1>
+<h2>I bet you thought this was going to be a piracy webpage. Argghhh</h2>
+	<br>
+
+<img src="https://raw.githubusercontent.com/raspberrypilearning/talk-like-a-pirate/master/cover.png" alt="">
+	
+<p>Arr, me hearties. Insert text below and see it translated ter pirate talk!</p>
+	
+<h3>Landlubbers</h3>
 <textarea id="normal"></textarea>
 
-<h2>Pirates</h2>
+<h3>Pirates</h3>
 <textarea id="pirate"></textarea>
+	
+<p>Arggghh. Ye can find th'source fer this on <a href="example.com">Github</a>.</p>
 
 </body>
 </html>
