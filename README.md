@@ -1,6 +1,6 @@
 # Talk like a Pirate
 
-This is a fork from ![Raspberry Pi Learning](github.comraspberrypilearning/talk-like-a-pirate)
+This is a fork from ![Raspberry Pi Learning](http://github.com/raspberrypilearning/talk-like-a-pirate)
 
 ![](cover.png)
 
