@@ -1,5 +1,7 @@
 # Talk like a Pirate
 
+This is a fork from ![Raspberry Pi Learning](github.comraspberrypilearning/talk-like-a-pirate)
+
 ![](cover.png)
 
 In this resource you will create a web page which can translate normal English text into pirate speak using jQuery and regular expressions.
